@@ -1,4 +1,7 @@
 C-S_app
 __pycache--/
 .idea
-server_db.db3
+server_base.db3
+client_test1.db3
+client_test2.db3
+server.ini
